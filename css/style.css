@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+    background-color: #3f0002;
+}
+header{
+    background-color: #af2024;
+    height: 40px;
+}
+.height{
+    background-color: white;
+    height: 678px;
+    width: 636px;
+    margin: auto;
+    position: relative;
+    bottom: -50px;
+    padding: 63px 0 0 74px;
+}
+.logo{
+    position: relative;
+bottom: -90px;
+    right: 63px;
+}
+.logo_full{
+    max-width: 850px;
+    margin: 0 auto 32px;
+}
+.rectangle{
+    width: 283px;
+    height: 75px;
+    border-right: 3px black solid;
+    background-color: #af2024;
+}
+.video_title{
+    width: 694px;
+    height: 43px;
+    background-color: #98161b;
+    margin: auto;
+    font-family: 'Arvo', serif;
+    color: white;
+    padding-top: 27px;
+    padding-left: 16px;
+    position: relative;
+    bottom: -50px;
+}
+footer{
+    height: 454px;
+    background-color: black;
+}
+.video{
+    display: block;
+    margin-bottom: 30px;
+}
+.category_name{
+    color:#98161b;
+    display: inline;
+font-family: 'Arvo', serif;
+}
+.date{
+    color: #7d7d7d;
+    display: inline;
+    font-family: 'Arvo', serif;
+}
+.dots{
+    color: #98161b;
+    font-family: 'Arvo', serif;
+    margin-bottom: 18px;
+}
+.about_photoshop{
+    font-family: 'Arvo', serif;
+    font-size: 12px;
+    padding-right: 50px;
+    color: #98161b;
+}
